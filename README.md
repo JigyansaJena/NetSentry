@@ -22,6 +22,17 @@ The project combines packet analysis, an interactive dashboard, and automated te
 ### Network Traffic Filters
 ![Network traffic filters](screenshots/network-filter.png)
 
+
+### Port-Scan Alerts
+![NetSentry alerts](screenshots/alert.png)
+
+### Traffic Visualization
+![NetSentry traffic graph](screenshots/traffic-graph.png)
+
+### Packet
+![NetSentry packet](screenshots/packet.png)
+
+
 ## Tech Stack
 
 - **Language:** Python

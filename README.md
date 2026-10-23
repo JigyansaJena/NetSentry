@@ -32,6 +32,9 @@ The project combines packet analysis, an interactive dashboard, and automated te
 ### Packet
 ![NetSentry packet](screenshots/packet.png)
 
+## Live Demo
+[Launch NetSentry](https://netsentry-network-threat-operations.streamlit.app/)
+
 
 ## Tech Stack
 

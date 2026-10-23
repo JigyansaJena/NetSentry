@@ -14,6 +14,14 @@ The project combines packet analysis, an interactive dashboard, and automated te
 - **Exportable Results:** Export supported analysis results for further investigation.
 - **Automated Testing:** Test packet extraction and port-scan detection behavior.
 
+## Screenshots
+
+### Dashboard
+![NetSentry dashboard](screenshots/dashboard.png)
+
+### Network Traffic Filters
+![Network traffic filters](screenshots/network-filter.png)
+
 ## Tech Stack
 
 - **Language:** Python
